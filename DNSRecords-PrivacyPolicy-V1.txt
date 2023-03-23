@@ -1,0 +1,33 @@
+Privacy Policy
+Last updated: March 23, 2023
+
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Application.
+.
+Interpretation and Definitions
+
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+Definitions
+For the purposes of this Privacy Policy:
+Application refers to DNS Records software program.
+Device means any device that can access the Application such as a cellphone or a digital tablet.
+Personal Data is any information that relates to an identified or identifiable individual.
+Service refers to DNS services provided by others.
+You means the individual accessing or using the Application, or the company, or other legal entity on behalf of which such individual is accessing or using the Application, as applicable.
+
+Personal Data
+While using our Application, no personal data shall be requested or collected.
+
+Connections to Other Services
+Our Application connects you to other Services using API, you need to provide your unique API keys to connect. Those keys are saved on your device and will be transmitted to the relevant Service directly. Our Application does not send the API keys to any other place other than the relevant Service.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or service.
+
+Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+•	By email: Privacy@netp.me
